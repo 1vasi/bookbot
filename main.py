@@ -14,8 +14,6 @@ except IndexError:
 
 def main():
 
-    
-
     get_book_text(text_file)
     
     get_num_words(get_book_text(text_file))
